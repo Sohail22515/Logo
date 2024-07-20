@@ -14,7 +14,7 @@ import GitHub, { gitHubInfoLoader } from './components/gitHub/GitHub.jsx'
 //1st method
 const router=createBrowserRouter([
   {
-    path:'Logo/',
+    path:',
     element:<Layout/>,
     children:[
       {
